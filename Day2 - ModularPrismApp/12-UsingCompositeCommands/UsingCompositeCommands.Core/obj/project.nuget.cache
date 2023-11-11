@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "VRvTZ8GQ22DwmS/Aqh3zaIOGuAd2e16lvumpK7rgOJTbPrkXkdgZwpNriTZIzoHFKwb+aFgGdkup4BdwB8pecw==",
+  "success": true,
+  "projectFilePath": "D:\\Doslan\\source\\repos\\Prism-Samples-Wpf\\12-UsingCompositeCommands\\UsingCompositeCommands.Core\\UsingCompositeCommands.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\djeksheev.SRS\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0-rc.1.23419.4\\microsoft.extensions.dependencyinjection.abstractions.8.0.0-rc.1.23419.4.nupkg.sha512",
+    "C:\\Users\\djeksheev.SRS\\.nuget\\packages\\prism.container.abstractions\\9.0.61-pre\\prism.container.abstractions.9.0.61-pre.nupkg.sha512",
+    "C:\\Users\\djeksheev.SRS\\.nuget\\packages\\prism.core\\9.0.271-pre\\prism.core.9.0.271-pre.nupkg.sha512",
+    "C:\\Users\\djeksheev.SRS\\.nuget\\packages\\prism.events\\9.0.271-pre\\prism.events.9.0.271-pre.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1507",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "There are 2 package sources defined in your configuration. When using central package management, please map your package sources with package source mapping (https://aka.ms/nuget-package-source-mapping) or specify a single package source. The following sources are defined: nuget.org, BagetInf"
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://bg-baget.dmz.lan/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)prism.container.abstractions\9.0.61-pre\buildTransitive\Prism.Container.Abstractions.targets" Condition="Exists('$(NuGetPackageRoot)prism.container.abstractions\9.0.61-pre\buildTransitive\Prism.Container.Abstractions.targets')" />
+    <Import Project="$(NuGetPackageRoot)prism.core\9.0.271-pre\buildTransitive\Prism.Core.targets" Condition="Exists('$(NuGetPackageRoot)prism.core\9.0.271-pre\buildTransitive\Prism.Core.targets')" />
+  </ImportGroup>
+</Project>

@@ -1,0 +1,93 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "UsingCompositeCommands.Core/1.0.0": {
+        "dependencies": {
+          "Prism.Core": "9.0.271-pre"
+        },
+        "runtime": {
+          "UsingCompositeCommands.Core.dll": {}
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-rc.1.23419.4": {
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.41904"
+          }
+        }
+      },
+      "Prism.Container.Abstractions/9.0.61-pre": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-rc.1.23419.4"
+        },
+        "runtime": {
+          "lib/net6.0/Prism.Container.Abstractions.dll": {
+            "assemblyVersion": "9.0.61.32622",
+            "fileVersion": "9.0.61.32622"
+          }
+        }
+      },
+      "Prism.Core/9.0.271-pre": {
+        "dependencies": {
+          "Prism.Container.Abstractions": "9.0.61-pre",
+          "Prism.Events": "9.0.271-pre"
+        },
+        "runtime": {
+          "lib/net6.0/Prism.dll": {
+            "assemblyVersion": "9.0.271.34483",
+            "fileVersion": "9.0.271.34483"
+          }
+        }
+      },
+      "Prism.Events/9.0.271-pre": {
+        "runtime": {
+          "lib/net6.0/Prism.Events.dll": {
+            "assemblyVersion": "9.0.271.34483",
+            "fileVersion": "9.0.271.34483"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UsingCompositeCommands.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-rc.1.23419.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SAv6AcbXKzvBq4kQAU5S9sW3ZOV7j4qLjqT+Iw6CLgqsSCgoJhmVvadtr8PUWaRfj4uVT9CX5V3zIojehtMq8w==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/8.0.0-rc.1.23419.4",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.8.0.0-rc.1.23419.4.nupkg.sha512"
+    },
+    "Prism.Container.Abstractions/9.0.61-pre": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BoBY4TOWVIeQ+qn7lSlHRnsLunTLLI9ojNrCel0cUgheP3+JggeEsXJhMzwPxVi6xNhtXsqwlCqEV+Fg1z2ezw==",
+      "path": "prism.container.abstractions/9.0.61-pre",
+      "hashPath": "prism.container.abstractions.9.0.61-pre.nupkg.sha512"
+    },
+    "Prism.Core/9.0.271-pre": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zxQqCe5ce6NjHjrSKs31IlFzLqlutzwzjn7FSZDX05OWRr+0vQimw5s71Tvv+9v1uWtBGXGl3obIXT2DAK016Q==",
+      "path": "prism.core/9.0.271-pre",
+      "hashPath": "prism.core.9.0.271-pre.nupkg.sha512"
+    },
+    "Prism.Events/9.0.271-pre": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-m0Y74RDozh6nFVGrD1m7KheJ8nDv/0znpqWVpAMEdkV4ni+s9Eh0AA7PkVC8BaBrzeeQ+VdmRjfQkBVJI62IEg==",
+      "path": "prism.events/9.0.271-pre",
+      "hashPath": "prism.events.9.0.271-pre.nupkg.sha512"
+    }
+  }
+}

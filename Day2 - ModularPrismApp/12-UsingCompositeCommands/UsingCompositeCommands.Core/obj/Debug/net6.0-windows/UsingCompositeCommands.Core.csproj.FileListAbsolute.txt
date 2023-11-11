@@ -1,0 +1,12 @@
+D:\Doslan\source\repos\Prism-Samples-Wpf\12-UsingCompositeCommands\UsingCompositeCommands.Core\bin\Debug\net6.0-windows\UsingCompositeCommands.Core.deps.json
+D:\Doslan\source\repos\Prism-Samples-Wpf\12-UsingCompositeCommands\UsingCompositeCommands.Core\bin\Debug\net6.0-windows\UsingCompositeCommands.Core.dll
+D:\Doslan\source\repos\Prism-Samples-Wpf\12-UsingCompositeCommands\UsingCompositeCommands.Core\bin\Debug\net6.0-windows\UsingCompositeCommands.Core.pdb
+D:\Doslan\source\repos\Prism-Samples-Wpf\12-UsingCompositeCommands\UsingCompositeCommands.Core\obj\Debug\net6.0-windows\UsingCompositeCommands.Core.csproj.AssemblyReference.cache
+D:\Doslan\source\repos\Prism-Samples-Wpf\12-UsingCompositeCommands\UsingCompositeCommands.Core\obj\Debug\net6.0-windows\UsingCompositeCommands.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Doslan\source\repos\Prism-Samples-Wpf\12-UsingCompositeCommands\UsingCompositeCommands.Core\obj\Debug\net6.0-windows\UsingCompositeCommands.Core.AssemblyInfoInputs.cache
+D:\Doslan\source\repos\Prism-Samples-Wpf\12-UsingCompositeCommands\UsingCompositeCommands.Core\obj\Debug\net6.0-windows\UsingCompositeCommands.Core.AssemblyInfo.cs
+D:\Doslan\source\repos\Prism-Samples-Wpf\12-UsingCompositeCommands\UsingCompositeCommands.Core\obj\Debug\net6.0-windows\UsingCompositeCommands.Core.csproj.CoreCompileInputs.cache
+D:\Doslan\source\repos\Prism-Samples-Wpf\12-UsingCompositeCommands\UsingCompositeCommands.Core\obj\Debug\net6.0-windows\UsingCompositeCommands.Core.dll
+D:\Doslan\source\repos\Prism-Samples-Wpf\12-UsingCompositeCommands\UsingCompositeCommands.Core\obj\Debug\net6.0-windows\refint\UsingCompositeCommands.Core.dll
+D:\Doslan\source\repos\Prism-Samples-Wpf\12-UsingCompositeCommands\UsingCompositeCommands.Core\obj\Debug\net6.0-windows\UsingCompositeCommands.Core.pdb
+D:\Doslan\source\repos\Prism-Samples-Wpf\12-UsingCompositeCommands\UsingCompositeCommands.Core\obj\Debug\net6.0-windows\ref\UsingCompositeCommands.Core.dll

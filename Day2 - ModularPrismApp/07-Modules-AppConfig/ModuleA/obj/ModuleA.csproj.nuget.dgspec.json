@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Doslan\\source\\repos\\Prism-Samples-Wpf\\07-Modules-AppConfig\\ModuleA\\ModuleA.csproj": {}
+  },
+  "projects": {
+    "D:\\Doslan\\source\\repos\\Prism-Samples-Wpf\\07-Modules-AppConfig\\ModuleA\\ModuleA.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Doslan\\source\\repos\\Prism-Samples-Wpf\\07-Modules-AppConfig\\ModuleA\\ModuleA.csproj",
+        "projectName": "ModuleA",
+        "projectPath": "D:\\Doslan\\source\\repos\\Prism-Samples-Wpf\\07-Modules-AppConfig\\ModuleA\\ModuleA.csproj",
+        "packagesPath": "C:\\Users\\djeksheev.SRS\\.nuget\\packages\\",
+        "outputPath": "D:\\Doslan\\source\\repos\\Prism-Samples-Wpf\\07-Modules-AppConfig\\ModuleA\\obj\\",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\djeksheev.SRS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Doslan\\source\\repos\\31github\\MuzUStandard": {},
+          "http://bg-baget.dmz.lan/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Prism.Wpf": {
+              "target": "Package",
+              "version": "[9.0.271-pre, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "Prism.Core": "[9.0.271-pre, )",
+            "Prism.DryIoc": "[9.0.271-pre, )",
+            "Prism.Unity": "[9.0.271-pre, )",
+            "Prism.Wpf": "[9.0.271-pre, )"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

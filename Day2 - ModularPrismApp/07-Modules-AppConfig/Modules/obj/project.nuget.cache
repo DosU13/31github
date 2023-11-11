@@ -1,0 +1,34 @@
+{
+  "version": 2,
+  "dgSpecHash": "yp2PFLAHLr/ezFimc9+r34//4GRoKIsEUqICZDmMqy0+nnfPjbmK2j5KslVZlt1pnnL61Vv6xOw75WGirBEc3A==",
+  "success": true,
+  "projectFilePath": "D:\\Doslan\\source\\repos\\Prism-Samples-Wpf\\07-Modules-AppConfig\\Modules\\Modules.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\djeksheev.SRS\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0-rc.1.23419.4\\microsoft.extensions.dependencyinjection.abstractions.8.0.0-rc.1.23419.4.nupkg.sha512",
+    "C:\\Users\\djeksheev.SRS\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\djeksheev.SRS\\.nuget\\packages\\prism.container.abstractions\\9.0.61-pre\\prism.container.abstractions.9.0.61-pre.nupkg.sha512",
+    "C:\\Users\\djeksheev.SRS\\.nuget\\packages\\prism.container.unity\\9.0.61-pre\\prism.container.unity.9.0.61-pre.nupkg.sha512",
+    "C:\\Users\\djeksheev.SRS\\.nuget\\packages\\prism.core\\9.0.271-pre\\prism.core.9.0.271-pre.nupkg.sha512",
+    "C:\\Users\\djeksheev.SRS\\.nuget\\packages\\prism.events\\9.0.271-pre\\prism.events.9.0.271-pre.nupkg.sha512",
+    "C:\\Users\\djeksheev.SRS\\.nuget\\packages\\prism.unity\\9.0.271-pre\\prism.unity.9.0.271-pre.nupkg.sha512",
+    "C:\\Users\\djeksheev.SRS\\.nuget\\packages\\prism.wpf\\9.0.271-pre\\prism.wpf.9.0.271-pre.nupkg.sha512",
+    "C:\\Users\\djeksheev.SRS\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\djeksheev.SRS\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512",
+    "C:\\Users\\djeksheev.SRS\\.nuget\\packages\\unity.abstractions\\5.11.7\\unity.abstractions.5.11.7.nupkg.sha512",
+    "C:\\Users\\djeksheev.SRS\\.nuget\\packages\\unity.container\\5.11.11\\unity.container.5.11.11.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1507",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "There are 2 package sources defined in your configuration. When using central package management, please map your package sources with package source mapping (https://aka.ms/nuget-package-source-mapping) or specify a single package source. The following sources are defined: nuget.org, BagetInf"
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://bg-baget.dmz.lan/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
