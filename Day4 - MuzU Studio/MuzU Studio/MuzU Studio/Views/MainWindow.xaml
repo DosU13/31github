@@ -1,0 +1,114 @@
+﻿<Window x:Class="MuzU_Studio.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        xmlns:vm="clr-namespace:MuzU_Studio.ViewModels"
+        xmlns:view="clr-namespace:MuzU_Studio.Views"
+        xmlns:prism="http://prismlibrary.com/"
+        prism:ViewModelLocator.AutoWireViewModel="True"
+        Height="900" Width="1600"
+        Style="{DynamicResource MainWindowStyle}"
+        >
+    <Window.Resources>
+        <Style x:Key="TransparentTextBox" TargetType="TextBox">
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="BorderBrush" Value="Transparent"/>
+        </Style>
+
+        <Style x:Key="ListViewFitWidth" TargetType="ListViewItem">
+            <Setter Property="HorizontalContentAlignment" Value="Stretch"/>
+        </Style>
+    </Window.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Width="200" Grid.Column="0" FontSize="17" FontWeight="Bold"
+                       Text="{Binding ProjectName, Mode=OneWay}"
+                       VerticalAlignment="Center"
+                       ToolTip="{Binding ProjectPath, Mode=OneWay}"/>
+            <Menu Grid.Column="1" Margin="5"
+                  Background="Transparent">
+                <Menu.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width="*" />
+                                <ColumnDefinition Width="Auto" />
+                                <ColumnDefinition Width="Auto" />
+                            </Grid.ColumnDefinitions>
+                        </Grid>
+                    </ItemsPanelTemplate>
+                </Menu.ItemsPanel>
+                <MenuItem  Grid.Column="1" Header="Project Properties" 
+                           FontSize="16"
+                           IsEnabled="{Binding ProjectExists, Mode=OneWay}"/>
+                <MenuItem  Grid.Column="3" Header="Save" 
+                           IsEnabled="{Binding ProjectExists, Mode=OneWay}"/>
+                <MenuItem Grid.Column="4"  Header=" ☰ " HorizontalAlignment="Right">
+                    <MenuItem Header="New Project"/>
+                    <MenuItem Header="New Project from MIDI"/>
+                    <Separator/>
+                    <MenuItem Header="Open"/>
+                    <Separator/>
+                    <MenuItem Header="Save"
+                              IsEnabled="{Binding ProjectPathExists, Mode=OneWay}"/>
+                    <MenuItem Header="Save as"
+                              IsEnabled="{Binding ProjectExists, Mode=OneWay}">
+                    </MenuItem>
+                </MenuItem>
+            </Menu>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="5"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid HorizontalAlignment="Stretch">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="5"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <ContentControl prism:RegionManager.RegionName="SequenceListRegion" 
+                                x:Name="SequenceListView" Grid.Row="0"/>
+                <GridSplitter Grid.Row="1" Height="5" HorizontalAlignment="Stretch"/>
+                <ContentControl prism:RegionManager.RegionName="PropertiesRegion" Grid.Row="2"/>
+            </Grid>
+            <GridSplitter Grid.Column="1" VerticalAlignment="Stretch" Width="5"/>
+            <Grid Grid.Column="2">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="0.9*"/>
+                    <RowDefinition Height="5"/>
+                    <RowDefinition Height="0.1*"/>
+                </Grid.RowDefinitions>
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="30"/>
+                        <RowDefinition Height="60"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="5"/>
+                        <RowDefinition Height="50" MaxHeight="150"/>
+                    </Grid.RowDefinitions>
+                    <ContentControl prism:RegionManager.RegionName="PianoRollRegion" 
+                                    HorizontalAlignment="Stretch"/>
+                </Grid>
+                <GridSplitter Grid.Row="1" Height="5" HorizontalAlignment="Stretch" />
+                <ContentControl prism:RegionManager.RegionName="VisualizerRegion" 
+                                Grid.Row="2"/>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

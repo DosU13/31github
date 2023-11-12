@@ -1,0 +1,31 @@
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzU Studio\bin\Debug\net7.0-windows\MuzU Studio.exe
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzU Studio\bin\Debug\net7.0-windows\MuzU Studio.deps.json
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzU Studio\bin\Debug\net7.0-windows\MuzU Studio.runtimeconfig.json
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzU Studio\bin\Debug\net7.0-windows\MuzU Studio.dll
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzU Studio\bin\Debug\net7.0-windows\MuzU Studio.pdb
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzU Studio\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzU Studio\bin\Debug\net7.0-windows\Prism.dll
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzU Studio\bin\Debug\net7.0-windows\Prism.Unity.Wpf.dll
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzU Studio\bin\Debug\net7.0-windows\Prism.Wpf.dll
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzU Studio\bin\Debug\net7.0-windows\Unity.Abstractions.dll
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzU Studio\bin\Debug\net7.0-windows\Unity.Container.dll
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzU Studio\bin\Debug\net7.0-windows\Resources.dll
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzU Studio\bin\Debug\net7.0-windows\Resources.pdb
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzU Studio\obj\Debug\net7.0-windows\MuzU Studio.csproj.AssemblyReference.cache
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzU Studio\obj\Debug\net7.0-windows\Views\MainWindow.g.cs
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzU Studio\obj\Debug\net7.0-windows\App.g.cs
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzU Studio\obj\Debug\net7.0-windows\MuzU Studio_MarkupCompile.cache
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzU Studio\obj\Debug\net7.0-windows\MuzU Studio_MarkupCompile.lref
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzU Studio\obj\Debug\net7.0-windows\App.baml
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzU Studio\obj\Debug\net7.0-windows\Views\MainWindow.baml
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzU Studio\obj\Debug\net7.0-windows\MuzU Studio.g.resources
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzU Studio\obj\Debug\net7.0-windows\MuzU Studio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzU Studio\obj\Debug\net7.0-windows\MuzU Studio.AssemblyInfoInputs.cache
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzU Studio\obj\Debug\net7.0-windows\MuzU Studio.AssemblyInfo.cs
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzU Studio\obj\Debug\net7.0-windows\MuzU Studio.csproj.CoreCompileInputs.cache
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzU Studio\obj\Debug\net7.0-windows\MuzU Studio.csproj.CopyComplete
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzU Studio\obj\Debug\net7.0-windows\MuzU Studio.dll
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzU Studio\obj\Debug\net7.0-windows\refint\MuzU Studio.dll
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzU Studio\obj\Debug\net7.0-windows\MuzU Studio.pdb
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzU Studio\obj\Debug\net7.0-windows\MuzU Studio.genruntimeconfig.cache
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzU Studio\obj\Debug\net7.0-windows\ref\MuzU Studio.dll
