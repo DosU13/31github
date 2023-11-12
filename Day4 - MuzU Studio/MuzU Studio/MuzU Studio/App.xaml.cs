@@ -2,6 +2,7 @@
 using Prism.Ioc;
 using Prism.Modularity;
 using Prism.Unity;
+using SequenceList;
 using System;
 using System.Collections.Generic;
 using System.Configuration;
@@ -26,7 +27,6 @@ public partial class App : PrismApplication
 
     protected override void ConfigureModuleCatalog(IModuleCatalog moduleCatalog)
     {
-        //moduleCatalog.AddModule<ModuleA.ModuleAModule>();
-        //moduleCatalog.AddModule<ModuleB.ModuleBModule>();
+        moduleCatalog.AddModule<SequenceListModule>();
     }
 }

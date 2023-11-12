@@ -1,0 +1,9 @@
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\SequenceListModule\obj\Debug\net7.0-windows\SequenceListModule.csproj.AssemblyReference.cache
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\SequenceListModule\obj\Debug\net7.0-windows\Views\MessageView.baml
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\SequenceListModule\obj\Debug\net7.0-windows\Views\MessageView.g.cs
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\SequenceListModule\obj\Debug\net7.0-windows\SequenceListModule_MarkupCompile.cache
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\SequenceListModule\obj\Debug\net7.0-windows\SequenceListModule.g.resources
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\SequenceListModule\obj\Debug\net7.0-windows\SequenceListModule.GeneratedMSBuildEditorConfig.editorconfig
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\SequenceListModule\obj\Debug\net7.0-windows\SequenceListModule.AssemblyInfoInputs.cache
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\SequenceListModule\obj\Debug\net7.0-windows\SequenceListModule.AssemblyInfo.cs
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\SequenceListModule\obj\Debug\net7.0-windows\SequenceListModule.csproj.CoreCompileInputs.cache

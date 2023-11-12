@@ -13,7 +13,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\MuzUStandardAdapter\MuzUStandardAdapter.csproj" />
     <ProjectReference Include="..\Resources\Resources.csproj" />
+    <ProjectReference Include="..\SequenceListModule\SequenceList.csproj" />
   </ItemGroup>
 
 </Project>

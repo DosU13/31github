@@ -8,8 +8,10 @@
     ".NETCoreApp,Version=v7.0": {
       "MuzU Studio/1.0.0": {
         "dependencies": {
+          "MuzUStandardAdapter": "1.0.0",
           "Prism.Unity": "8.1.97",
-          "Resources": "1.0.0"
+          "Resources": "1.0.0",
+          "SequenceList": "1.0.0"
         },
         "runtime": {
           "MuzU Studio.dll": {}
@@ -80,9 +82,22 @@
           }
         }
       },
+      "MuzUStandardAdapter/1.0.0": {
+        "runtime": {
+          "MuzUStandardAdapter.dll": {}
+        }
+      },
       "Resources/1.0.0": {
         "runtime": {
           "Resources.dll": {}
+        }
+      },
+      "SequenceList/1.0.0": {
+        "dependencies": {
+          "Prism.Wpf": "8.1.97"
+        },
+        "runtime": {
+          "SequenceList.dll": {}
         }
       }
     }
@@ -149,7 +164,17 @@
       "path": "unity.container/5.11.11",
       "hashPath": "unity.container.5.11.11.nupkg.sha512"
     },
+    "MuzUStandardAdapter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "Resources/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SequenceList/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

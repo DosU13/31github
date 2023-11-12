@@ -83,7 +83,7 @@
                     <RowDefinition Height="*"/>
                 </Grid.RowDefinitions>
                 <ContentControl prism:RegionManager.RegionName="SequenceListRegion" 
-                                x:Name="SequenceListView" Grid.Row="0"/>
+                                Grid.Row="0"/>
                 <GridSplitter Grid.Row="1" Height="5" HorizontalAlignment="Stretch"/>
                 <ContentControl prism:RegionManager.RegionName="PropertiesRegion" Grid.Row="2"/>
             </Grid>

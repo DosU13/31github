@@ -1,0 +1,11 @@
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzUStandardAdapter\bin\Debug\net7.0-windows\MuzUStandardAdapter.deps.json
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzUStandardAdapter\bin\Debug\net7.0-windows\MuzUStandardAdapter.dll
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzUStandardAdapter\bin\Debug\net7.0-windows\MuzUStandardAdapter.pdb
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzUStandardAdapter\obj\Debug\net7.0-windows\MuzUStandardAdapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzUStandardAdapter\obj\Debug\net7.0-windows\MuzUStandardAdapter.AssemblyInfoInputs.cache
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzUStandardAdapter\obj\Debug\net7.0-windows\MuzUStandardAdapter.AssemblyInfo.cs
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzUStandardAdapter\obj\Debug\net7.0-windows\MuzUStandardAdapter.csproj.CoreCompileInputs.cache
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzUStandardAdapter\obj\Debug\net7.0-windows\MuzUStandardAdapter.dll
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzUStandardAdapter\obj\Debug\net7.0-windows\refint\MuzUStandardAdapter.dll
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzUStandardAdapter\obj\Debug\net7.0-windows\MuzUStandardAdapter.pdb
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzUStandardAdapter\obj\Debug\net7.0-windows\ref\MuzUStandardAdapter.dll

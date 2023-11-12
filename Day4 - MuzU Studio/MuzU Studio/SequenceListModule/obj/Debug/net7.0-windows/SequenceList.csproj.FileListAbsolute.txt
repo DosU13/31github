@@ -1,0 +1,16 @@
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\SequenceListModule\bin\Debug\net7.0-windows\SequenceList.deps.json
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\SequenceListModule\bin\Debug\net7.0-windows\SequenceList.dll
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\SequenceListModule\bin\Debug\net7.0-windows\SequenceList.pdb
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\SequenceListModule\obj\Debug\net7.0-windows\SequenceList.csproj.AssemblyReference.cache
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\SequenceListModule\obj\Debug\net7.0-windows\Views\SequenceListView.baml
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\SequenceListModule\obj\Debug\net7.0-windows\Views\SequenceListView.g.cs
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\SequenceListModule\obj\Debug\net7.0-windows\SequenceList_MarkupCompile.cache
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\SequenceListModule\obj\Debug\net7.0-windows\SequenceList.g.resources
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\SequenceListModule\obj\Debug\net7.0-windows\SequenceList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\SequenceListModule\obj\Debug\net7.0-windows\SequenceList.AssemblyInfoInputs.cache
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\SequenceListModule\obj\Debug\net7.0-windows\SequenceList.AssemblyInfo.cs
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\SequenceListModule\obj\Debug\net7.0-windows\SequenceList.csproj.CoreCompileInputs.cache
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\SequenceListModule\obj\Debug\net7.0-windows\SequenceList.dll
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\SequenceListModule\obj\Debug\net7.0-windows\refint\SequenceList.dll
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\SequenceListModule\obj\Debug\net7.0-windows\SequenceList.pdb
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\SequenceListModule\obj\Debug\net7.0-windows\ref\SequenceList.dll

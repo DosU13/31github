@@ -126,6 +126,19 @@
           }
         }
       },
+      "MuzUStandardAdapter/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/MuzUStandardAdapter.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MuzUStandardAdapter.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
       "Resources/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -134,6 +147,22 @@
         },
         "runtime": {
           "bin/placeholder/Resources.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "SequenceList/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Prism.Wpf": "8.1.97"
+        },
+        "compile": {
+          "bin/placeholder/SequenceList.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SequenceList.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.WindowsDesktop.App.WPF"
@@ -367,16 +396,28 @@
         "unity.container.nuspec"
       ]
     },
+    "MuzUStandardAdapter/1.0.0": {
+      "type": "project",
+      "path": "../MuzUStandardAdapter/MuzUStandardAdapter.csproj",
+      "msbuildProject": "../MuzUStandardAdapter/MuzUStandardAdapter.csproj"
+    },
     "Resources/1.0.0": {
       "type": "project",
       "path": "../Resources/Resources.csproj",
       "msbuildProject": "../Resources/Resources.csproj"
+    },
+    "SequenceList/1.0.0": {
+      "type": "project",
+      "path": "../SequenceListModule/SequenceList.csproj",
+      "msbuildProject": "../SequenceListModule/SequenceList.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0-windows7.0": [
+      "MuzUStandardAdapter >= 1.0.0",
       "Prism.Unity >= 8.1.97",
-      "Resources >= 1.0.0"
+      "Resources >= 1.0.0",
+      "SequenceList >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -411,8 +452,14 @@
         "net7.0-windows7.0": {
           "targetAlias": "net7.0-windows",
           "projectReferences": {
+            "D:\\Doslan\\#31github\\-31github\\Day4 - MuzU Studio\\MuzU Studio\\MuzUStandardAdapter\\MuzUStandardAdapter.csproj": {
+              "projectPath": "D:\\Doslan\\#31github\\-31github\\Day4 - MuzU Studio\\MuzU Studio\\MuzUStandardAdapter\\MuzUStandardAdapter.csproj"
+            },
             "D:\\Doslan\\#31github\\-31github\\Day4 - MuzU Studio\\MuzU Studio\\Resources\\Resources.csproj": {
               "projectPath": "D:\\Doslan\\#31github\\-31github\\Day4 - MuzU Studio\\MuzU Studio\\Resources\\Resources.csproj"
+            },
+            "D:\\Doslan\\#31github\\-31github\\Day4 - MuzU Studio\\MuzU Studio\\SequenceListModule\\SequenceList.csproj": {
+              "projectPath": "D:\\Doslan\\#31github\\-31github\\Day4 - MuzU Studio\\MuzU Studio\\SequenceListModule\\SequenceList.csproj"
             }
           }
         }

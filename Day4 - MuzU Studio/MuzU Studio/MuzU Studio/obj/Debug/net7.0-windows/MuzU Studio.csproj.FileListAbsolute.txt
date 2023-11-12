@@ -29,3 +29,7 @@ D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzU Studio\obj\Deb
 D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzU Studio\obj\Debug\net7.0-windows\MuzU Studio.pdb
 D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzU Studio\obj\Debug\net7.0-windows\MuzU Studio.genruntimeconfig.cache
 D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzU Studio\obj\Debug\net7.0-windows\ref\MuzU Studio.dll
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzU Studio\bin\Debug\net7.0-windows\MuzUStandardAdapter.dll
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzU Studio\bin\Debug\net7.0-windows\SequenceList.dll
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzU Studio\bin\Debug\net7.0-windows\MuzUStandardAdapter.pdb
+D:\Doslan\#31github\-31github\Day4 - MuzU Studio\MuzU Studio\MuzU Studio\bin\Debug\net7.0-windows\SequenceList.pdb
