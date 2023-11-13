@@ -18,6 +18,19 @@
           "Microsoft.WindowsDesktop.App.WPF"
         ]
       },
+      "Newtonsoft.Json/13.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Prism.Core/8.1.97": {
         "type": "package",
         "compile": {
@@ -126,14 +139,30 @@
           }
         }
       },
-      "MuzUStandardAdapter/1.0.0": {
+      "MuzUStandard/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.3"
+        },
         "compile": {
-          "bin/placeholder/MuzUStandardAdapter.dll": {}
+          "bin/placeholder/MuzUStandard.dll": {}
         },
         "runtime": {
-          "bin/placeholder/MuzUStandardAdapter.dll": {}
+          "bin/placeholder/MuzUStandard.dll": {}
+        }
+      },
+      "MuzUWrapper/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "MuzUStandard": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MuzUWrapper.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MuzUWrapper.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.WindowsDesktop.App.WPF"
@@ -194,6 +223,36 @@
         "microsoft.xaml.behaviors.wpf.1.1.31.nupkg.sha512",
         "microsoft.xaml.behaviors.wpf.nuspec",
         "tools/Install.ps1"
+      ]
+    },
+    "Newtonsoft.Json/13.0.3": {
+      "sha512": "HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
+      "type": "package",
+      "path": "newtonsoft.json/13.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "README.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/net6.0/Newtonsoft.Json.dll",
+        "lib/net6.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "newtonsoft.json.13.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
       ]
     },
     "Prism.Core/8.1.97": {
@@ -396,10 +455,15 @@
         "unity.container.nuspec"
       ]
     },
-    "MuzUStandardAdapter/1.0.0": {
+    "MuzUStandard/1.0.0": {
       "type": "project",
-      "path": "../MuzUStandardAdapter/MuzUStandardAdapter.csproj",
-      "msbuildProject": "../MuzUStandardAdapter/MuzUStandardAdapter.csproj"
+      "path": "../MuzUStandard/MuzUStandard.csproj",
+      "msbuildProject": "../MuzUStandard/MuzUStandard.csproj"
+    },
+    "MuzUWrapper/1.0.0": {
+      "type": "project",
+      "path": "../MuzUStandardAdapter/MuzUWrapper.csproj",
+      "msbuildProject": "../MuzUStandardAdapter/MuzUWrapper.csproj"
     },
     "Resources/1.0.0": {
       "type": "project",
@@ -414,7 +478,7 @@
   },
   "projectFileDependencyGroups": {
     "net7.0-windows7.0": [
-      "MuzUStandardAdapter >= 1.0.0",
+      "MuzUWrapper >= 1.0.0",
       "Prism.Unity >= 8.1.97",
       "Resources >= 1.0.0",
       "SequenceList >= 1.0.0"
@@ -452,8 +516,8 @@
         "net7.0-windows7.0": {
           "targetAlias": "net7.0-windows",
           "projectReferences": {
-            "D:\\Doslan\\#31github\\-31github\\Day4 - MuzU Studio\\MuzU Studio\\MuzUStandardAdapter\\MuzUStandardAdapter.csproj": {
-              "projectPath": "D:\\Doslan\\#31github\\-31github\\Day4 - MuzU Studio\\MuzU Studio\\MuzUStandardAdapter\\MuzUStandardAdapter.csproj"
+            "D:\\Doslan\\#31github\\-31github\\Day4 - MuzU Studio\\MuzU Studio\\MuzUStandardAdapter\\MuzUWrapper.csproj": {
+              "projectPath": "D:\\Doslan\\#31github\\-31github\\Day4 - MuzU Studio\\MuzU Studio\\MuzUStandardAdapter\\MuzUWrapper.csproj"
             },
             "D:\\Doslan\\#31github\\-31github\\Day4 - MuzU Studio\\MuzU Studio\\Resources\\Resources.csproj": {
               "projectPath": "D:\\Doslan\\#31github\\-31github\\Day4 - MuzU Studio\\MuzU Studio\\Resources\\Resources.csproj"

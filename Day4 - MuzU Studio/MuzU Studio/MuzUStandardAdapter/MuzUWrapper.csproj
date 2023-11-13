@@ -6,4 +6,8 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MuzUStandard\MuzUStandard.csproj" />
+  </ItemGroup>
+
 </Project>

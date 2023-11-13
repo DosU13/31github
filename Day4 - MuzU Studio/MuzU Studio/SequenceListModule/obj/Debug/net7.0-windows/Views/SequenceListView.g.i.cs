@@ -58,7 +58,7 @@ namespace SequenceList.Views {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/SequenceList;component/views/sequencelistview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/SequenceList;V1.0.0.0;component/views/sequencelistview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Views\SequenceListView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "DCntJXlj3glZW1yf+1HRbHP5jfzJQqpcO/jVclF/ZavGaJ8pt/e/Qbd1bSmkJeQQv1CFEatqeRuK7F7zXN+IFQ==",
+  "dgSpecHash": "VIAFL4T6KyPAT/j761K76agXuNgfMPlNP9V1oBRB6LUjKBtFclk/826MvmeyjNTbaDfIM+cp1fZiklo89Y1UFw==",
   "success": true,
   "projectFilePath": "D:\\Doslan\\#31github\\-31github\\Day4 - MuzU Studio\\MuzU Studio\\MuzU Studio\\MuzU Studio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Пользователь\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.31\\microsoft.xaml.behaviors.wpf.1.1.31.nupkg.sha512",
+    "C:\\Users\\Пользователь\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\Пользователь\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512",
     "C:\\Users\\Пользователь\\.nuget\\packages\\prism.unity\\8.1.97\\prism.unity.8.1.97.nupkg.sha512",
     "C:\\Users\\Пользователь\\.nuget\\packages\\prism.wpf\\8.1.97\\prism.wpf.8.1.97.nupkg.sha512",
