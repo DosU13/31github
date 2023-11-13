@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iDBisKuY5sm7ZaO/eUXKncx4EWIYd3RCJNsOQ7TJgZJDV6eAR5rx5Md53zOhXSVnEuLfcYGbuFN2vc0UBQm7Dw==",
+  "success": true,
+  "projectFilePath": "D:\\Doslan\\#31github\\-31github\\Day4 - MuzU Studio\\MuzU Studio\\MuzUStandard\\MuzUStandard.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Пользователь\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Пользователь\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Пользователь\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
