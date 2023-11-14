@@ -1,0 +1,300 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VidU>
+  <Name>NoName</Name>
+  <MuzUPath>D:\Doslan\#31github\-31github\MuzU files\The Weeknd - I Feel It Coming ft. Daft Punk (some words removed).muzu</MuzUPath>
+  <MusicPath>D:\Doslan\#31github\-31github\MuzU files\The Weeknd - I Feel It Coming ft. Daft Punk.mp3</MusicPath>
+  <MusicAllignSec>-30.2</MusicAllignSec>
+  <BPM>93.000041850018832</BPM>
+  <Clips>
+    <list count="2">
+      <item-0>
+        <SingleClip>
+          <Image>
+            <Path>D:\Pictures\Prosperity Cup\DSC02662.jpg</Path>
+          </Image>
+          <Duration>41.290304</Duration>
+          <Effects>
+            <list count="0" />
+          </Effects>
+        </SingleClip>
+      </item-0>
+      <item-1>
+        <AutoSequencerClip>
+          <Medias>
+            <list count="40">
+              <item-0 />
+              <item-1 />
+              <item-2 />
+              <item-3 />
+              <item-4 />
+              <item-5 />
+              <item-6 />
+              <item-7 />
+              <item-8 />
+              <item-9 />
+              <item-10 />
+              <item-11 />
+              <item-12 />
+              <item-13 />
+              <item-14 />
+              <item-15 />
+              <item-16 />
+              <item-17 />
+              <item-18 />
+              <item-19 />
+              <item-20 />
+              <item-21 />
+              <item-22 />
+              <item-23 />
+              <item-24 />
+              <item-25 />
+              <item-26 />
+              <item-27 />
+              <item-28 />
+              <item-29 />
+              <item-30 />
+              <item-31 />
+              <item-32 />
+              <item-33 />
+              <item-34 />
+              <item-35 />
+              <item-36 />
+              <item-37 />
+              <item-38 />
+              <item-39 />
+            </list>
+          </Medias>
+          <Values>
+            <list count="40">
+              <item-0></item-0>
+              <item-1>_2</item-1>
+              <item-2>_3</item-2>
+              <item-3>_4</item-3>
+              <item-4>_5</item-4>
+              <item-5>ah</item-5>
+              <item-6>ah_2</item-6>
+              <item-7>ah_3</item-7>
+              <item-8>baby</item-8>
+              <item-9>baby_2</item-9>
+              <item-10>can</item-10>
+              <item-11>don't</item-11>
+              <item-12>ever</item-12>
+              <item-13>ever_2</item-13>
+              <item-14>fightjust</item-14>
+              <item-15>have</item-15>
+              <item-16>i</item-16>
+              <item-17>in</item-17>
+              <item-18>it</item-18>
+              <item-19>like</item-19>
+              <item-20>like_2</item-20>
+              <item-21>me</item-21>
+              <item-22>my</item-22>
+              <item-23>really</item-23>
+              <item-24>really_2</item-24>
+              <item-25>see</item-25>
+              <item-26>stepbystep</item-26>
+              <item-27>stepbystep_2</item-27>
+              <item-28>stepbystep_3</item-28>
+              <item-29>stepbystep_4</item-29>
+              <item-30>stepbystep_5</item-30>
+              <item-31>take</item-31>
+              <item-32>tell</item-32>
+              <item-33>time</item-33>
+              <item-34>to</item-34>
+              <item-35>we</item-35>
+              <item-36>what</item-36>
+              <item-37>yeah</item-37>
+              <item-38>you</item-38>
+              <item-39>your</item-39>
+            </list>
+          </Values>
+          <NumberDictionaryXml>
+            <IsValueInteger>false</IsValueInteger>
+            <list count="44">
+              <item-0>
+                <TimeSec>41.290304</TimeSec>
+                <Value>0</Value>
+              </item-0>
+              <item-1>
+                <TimeSec>42.903207</TimeSec>
+                <Value>1</Value>
+              </item-1>
+              <item-2>
+                <TimeSec>43.870948</TimeSec>
+                <Value>2</Value>
+              </item-2>
+              <item-3>
+                <TimeSec>46.451592</TimeSec>
+                <Value>3</Value>
+              </item-3>
+              <item-4>
+                <TimeSec>46.774173</TimeSec>
+                <Value>4</Value>
+              </item-4>
+              <item-5>
+                <TimeSec>47.419334</TimeSec>
+                <Value>37</Value>
+              </item-5>
+              <item-6>
+                <TimeSec>48.064495</TimeSec>
+                <Value>5</Value>
+              </item-6>
+              <item-7>
+                <TimeSec>49.032236</TimeSec>
+                <Value>6</Value>
+              </item-7>
+              <item-8>
+                <TimeSec>49.354817</TimeSec>
+                <Value>7</Value>
+              </item-8>
+              <item-9>
+                <TimeSec>49.999978</TimeSec>
+                <Value>32</Value>
+              </item-9>
+              <item-10>
+                <TimeSec>50.322558</TimeSec>
+                <Value>21</Value>
+              </item-10>
+              <item-11>
+                <TimeSec>50.490569</TimeSec>
+                <Value>36</Value>
+              </item-11>
+              <item-12>
+                <TimeSec>50.645139</TimeSec>
+                <Value>38</Value>
+              </item-12>
+              <item-13>
+                <TimeSec>50.813149</TimeSec>
+                <Value>23</Value>
+              </item-13>
+              <item-14>
+                <TimeSec>50.967719</TimeSec>
+                <Value>24</Value>
+              </item-14>
+              <item-15>
+                <TimeSec>51.2903</TimeSec>
+                <Value>19</Value>
+              </item-15>
+              <item-16>
+                <TimeSec>51.45831</TimeSec>
+                <Value>20</Value>
+              </item-16>
+              <item-17>
+                <TimeSec>52.903202</TimeSec>
+                <Value>8</Value>
+              </item-17>
+              <item-18>
+                <TimeSec>53.071213</TimeSec>
+                <Value>9</Value>
+              </item-18>
+              <item-19>
+                <TimeSec>53.225783</TimeSec>
+                <Value>16</Value>
+              </item-19>
+              <item-20>
+                <TimeSec>53.393793</TimeSec>
+                <Value>10</Value>
+              </item-20>
+              <item-21>
+                <TimeSec>53.548363</TimeSec>
+                <Value>31</Value>
+              </item-21>
+              <item-22>
+                <TimeSec>53.870944</TimeSec>
+                <Value>22</Value>
+              </item-22>
+              <item-23>
+                <TimeSec>54.038954</TimeSec>
+                <Value>33</Value>
+              </item-23>
+              <item-24>
+                <TimeSec>55.483846</TimeSec>
+                <Value>35</Value>
+              </item-24>
+              <item-25>
+                <TimeSec>55.651857</TimeSec>
+                <Value>11</Value>
+              </item-25>
+              <item-26>
+                <TimeSec>55.806427</TimeSec>
+                <Value>12</Value>
+              </item-26>
+              <item-27>
+                <TimeSec>55.974437</TimeSec>
+                <Value>13</Value>
+              </item-27>
+              <item-28>
+                <TimeSec>56.129007</TimeSec>
+                <Value>15</Value>
+              </item-28>
+              <item-29>
+                <TimeSec>56.451588</TimeSec>
+                <Value>34</Value>
+              </item-29>
+              <item-30>
+                <TimeSec>56.619598</TimeSec>
+                <Value>14</Value>
+              </item-30>
+              <item-31>
+                <TimeSec>57.90992</TimeSec>
+                <Value>31</Value>
+              </item-31>
+              <item-32>
+                <TimeSec>58.232501</TimeSec>
+                <Value>18</Value>
+              </item-32>
+              <item-33>
+                <TimeSec>58.555081</TimeSec>
+                <Value>26</Value>
+              </item-33>
+              <item-34>
+                <TimeSec>58.877662</TimeSec>
+                <Value>27</Value>
+              </item-34>
+              <item-35>
+                <TimeSec>59.354812</TimeSec>
+                <Value>28</Value>
+              </item-35>
+              <item-36>
+                <TimeSec>59.522823</TimeSec>
+                <Value>29</Value>
+              </item-36>
+              <item-37>
+                <TimeSec>59.677393</TimeSec>
+                <Value>30</Value>
+              </item-37>
+              <item-38>
+                <TimeSec>60.645134</TimeSec>
+                <Value>16</Value>
+              </item-38>
+              <item-39>
+                <TimeSec>60.813145</TimeSec>
+                <Value>10</Value>
+              </item-39>
+              <item-40>
+                <TimeSec>60.967715</TimeSec>
+                <Value>25</Value>
+              </item-40>
+              <item-41>
+                <TimeSec>61.135725</TimeSec>
+                <Value>18</Value>
+              </item-41>
+              <item-42>
+                <TimeSec>61.290295</TimeSec>
+                <Value>17</Value>
+              </item-42>
+              <item-43>
+                <TimeSec>61.612876</TimeSec>
+                <Value>39</Value>
+              </item-43>
+            </list>
+          </NumberDictionaryXml>
+          <Duration>20.645152</Duration>
+          <Effects>
+            <list count="0" />
+          </Effects>
+        </AutoSequencerClip>
+      </item-1>
+    </list>
+  </Clips>
+</VidU>
