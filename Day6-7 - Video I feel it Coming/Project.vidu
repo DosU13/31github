@@ -1,647 +1,605 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <VidU>
   <Name>NoName</Name>
-  <MuzUPath>D:\Doslan\#31github\-31github\MuzU files\The Weeknd - I Feel It Coming ft. Daft Punk (some words removed).muzu</MuzUPath>
-  <MusicPath>D:\Doslan\#31github\-31github\MuzU files\The Weeknd - I Feel It Coming ft. Daft Punk.mp3</MusicPath>
+  <MuzUPath>D:\Doslan\repos\31github\MuzU files\The Weeknd - I Feel It Coming ft. Daft Punk (some words removed).muzu</MuzUPath>
+  <MusicPath>D:\Doslan\repos\31github\MuzU files\The Weeknd - I Feel It Coming ft. Daft Punk.mp3</MusicPath>
   <MusicAllignSec>-30.2</MusicAllignSec>
   <BPM>93.000041850018832</BPM>
   <Clips>
-    <list count="4">
+    <list count="2">
       <item-0>
         <SingleClip>
           <Image>
-            <Path>D:\WorkingPlace\I feel it coming\google.png</Path>
+            <Path>G:\Other computers\Ноутбук\Google Images\a.jpg</Path>
           </Image>
-          <Duration>41.290304</Duration>
+          <Duration>49.032236</Duration>
           <Effects>
             <list count="0" />
           </Effects>
         </SingleClip>
       </item-0>
       <item-1>
-        <SingleClip>
-          <Image>
-            <Path>D:\WorkingPlace\I feel it coming\google.png</Path>
-          </Image>
-          <Duration>6.1290295</Duration>
-          <Effects>
-            <list count="0" />
-          </Effects>
-        </SingleClip>
-      </item-1>
-      <item-2>
-        <AutoSequencerClip>
-          <Medias>
-            <list count="1">
-              <item-0>
-                <Image>
-                  <Path>D:\Pictures\Google Images\yeah.jpg</Path>
-                </Image>
-              </item-0>
-            </list>
-          </Medias>
-          <Values>
-            <list count="1">
-              <item-0>yeah</item-0>
-            </list>
-          </Values>
-          <NumberDictionaryXml>
-            <IsValueInteger>false</IsValueInteger>
-            <list count="1">
-              <item-0>
-                <TimeSec>47.419334</TimeSec>
-                <Value>0</Value>
-              </item-0>
-            </list>
-          </NumberDictionaryXml>
-          <Duration>1.6129025000000001</Duration>
-          <Effects>
-            <list count="0" />
-          </Effects>
-        </AutoSequencerClip>
-      </item-2>
-      <item-3>
         <AutoSequencerClip>
           <Medias>
             <list count="116">
               <item-0>
                 <Image>
-                  <Path>D:\Pictures\Google Images\a.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\a.jpg</Path>
                 </Image>
               </item-0>
               <item-1>
                 <Image>
-                  <Path>D:\Pictures\Google Images\ah.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\ah.jpg</Path>
                 </Image>
               </item-1>
               <item-2>
                 <Image>
-                  <Path>D:\Pictures\Google Images\ah_2.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\ah_2.jpg</Path>
                 </Image>
               </item-2>
               <item-3>
                 <Image>
-                  <Path>D:\Pictures\Google Images\alone.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\alone.jpg</Path>
                 </Image>
               </item-3>
               <item-4>
                 <Image>
-                  <Path>D:\Pictures\Google Images\alone_2.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\alone_2.jpg</Path>
                 </Image>
               </item-4>
               <item-5>
                 <Image>
-                  <Path>D:\Pictures\Google Images\and.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\and.jpg</Path>
                 </Image>
               </item-5>
               <item-6>
                 <Image>
-                  <Path>D:\Pictures\Google Images\are.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\are.jpg</Path>
                 </Image>
               </item-6>
               <item-7>
                 <Image>
-                  <Path>D:\Pictures\Google Images\babe.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\babe.jpg</Path>
                 </Image>
               </item-7>
               <item-8>
                 <Image>
-                  <Path>D:\Pictures\Google Images\baby.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\baby.jpg</Path>
                 </Image>
               </item-8>
               <item-9>
                 <Image>
-                  <Path>D:\Pictures\Google Images\baby_2.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\baby_2.jpg</Path>
                 </Image>
               </item-9>
               <item-10>
                 <Image>
-                  <Path>D:\Pictures\Google Images\been.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\been.jpg</Path>
                 </Image>
               </item-10>
               <item-11>
                 <Image>
-                  <Path>D:\Pictures\Google Images\between.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\between.jpg</Path>
                 </Image>
               </item-11>
               <item-12>
                 <Image>
-                  <Path>D:\Pictures\Google Images\between_2.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\between_2.jpg</Path>
                 </Image>
               </item-12>
               <item-13>
                 <Image>
-                  <Path>D:\Pictures\Google Images\body.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\body.jpg</Path>
                 </Image>
               </item-13>
               <item-14>
                 <Image>
-                  <Path>D:\Pictures\Google Images\body_2.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\body_2.jpg</Path>
                 </Image>
               </item-14>
               <item-15>
                 <Image>
-                  <Path>D:\Pictures\Google Images\can.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\can.jpg</Path>
                 </Image>
               </item-15>
               <item-16>
                 <Image>
-                  <Path>D:\Pictures\Google Images\cause.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\cause.jpg</Path>
                 </Image>
               </item-16>
               <item-17>
                 <Image>
-                  <Path>D:\Pictures\Google Images\coming.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\coming.jpg</Path>
                 </Image>
               </item-17>
               <item-18>
                 <Image>
-                  <Path>D:\Pictures\Google Images\coming_2.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\coming_2.jpg</Path>
                 </Image>
               </item-18>
               <item-19>
                 <Image>
-                  <Path>D:\Pictures\Google Images\did.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\did.jpg</Path>
                 </Image>
               </item-19>
               <item-20>
                 <Image>
-                  <Path>D:\Pictures\Google Images\don't.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\don't.jpg</Path>
                 </Image>
               </item-20>
               <item-21>
                 <Image>
-                  <Path>D:\Pictures\Google Images\ever.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\ever.jpg</Path>
                 </Image>
               </item-21>
               <item-22>
                 <Image>
-                  <Path>D:\Pictures\Google Images\ever_2.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\ever_2.jpg</Path>
                 </Image>
               </item-22>
               <item-23>
                 <Image>
-                  <Path>D:\Pictures\Google Images\eyes.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\eyes.jpg</Path>
                 </Image>
               </item-23>
               <item-24>
                 <Image>
-                  <Path>D:\Pictures\Google Images\faded.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\faded.jpg</Path>
                 </Image>
               </item-24>
               <item-25>
                 <Image>
-                  <Path>D:\Pictures\Google Images\faded_2.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\faded_2.jpg</Path>
                 </Image>
               </item-25>
               <item-26>
                 <Image>
-                  <Path>D:\Pictures\Google Images\feel.png</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\feel.png</Path>
                 </Image>
               </item-26>
               <item-27>
                 <Image>
-                  <Path>D:\Pictures\Google Images\fight.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\fight.jpg</Path>
                 </Image>
               </item-27>
               <item-28>
                 <Image>
-                  <Path>D:\Pictures\Google Images\free.png</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\free.png</Path>
                 </Image>
               </item-28>
               <item-29>
                 <Image>
-                  <Path>D:\Pictures\Google Images\free_2.png</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\free_2.png</Path>
                 </Image>
               </item-29>
               <item-30>
                 <Image>
-                  <Path>D:\Pictures\Google Images\get.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\get.jpg</Path>
                 </Image>
               </item-30>
               <item-31>
                 <Image>
-                  <Path>D:\Pictures\Google Images\give.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\give.jpg</Path>
                 </Image>
               </item-31>
               <item-32>
                 <Image>
-                  <Path>D:\Pictures\Google Images\got.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\got.jpg</Path>
                 </Image>
               </item-32>
               <item-33>
                 <Image>
-                  <Path>D:\Pictures\Google Images\have.png</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\have.png</Path>
                 </Image>
               </item-33>
               <item-34>
                 <Image>
-                  <Path>D:\Pictures\Google Images\heat.jpeg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\heat.jpeg</Path>
                 </Image>
               </item-34>
               <item-35>
                 <Image>
-                  <Path>D:\Pictures\Google Images\high.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\high.jpg</Path>
                 </Image>
               </item-35>
               <item-36>
                 <Image>
-                  <Path>D:\Pictures\Google Images\i.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\i.jpg</Path>
                 </Image>
               </item-36>
               <item-37>
                 <Image>
-                  <Path>D:\Pictures\Google Images\i'm.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\i'm.jpg</Path>
                 </Image>
               </item-37>
               <item-38>
                 <Image>
-                  <Path>D:\Pictures\Google Images\in.png</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\in.png</Path>
                 </Image>
               </item-38>
               <item-39>
                 <Image>
-                  <Path>D:\Pictures\Google Images\is.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\is.jpg</Path>
                 </Image>
               </item-39>
               <item-40>
                 <Image>
-                  <Path>D:\Pictures\Google Images\it.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\it.jpg</Path>
                 </Image>
               </item-40>
               <item-41>
                 <Image>
-                  <Path>D:\Pictures\Google Images\just.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\just.jpg</Path>
                 </Image>
               </item-41>
               <item-42>
                 <Image>
-                  <Path>D:\Pictures\Google Images\know.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\know.jpg</Path>
                 </Image>
               </item-42>
               <item-43>
                 <Image>
-                  <Path>D:\Pictures\Google Images\legs.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\legs.jpg</Path>
                 </Image>
               </item-43>
               <item-44>
                 <Image>
-                  <Path>D:\Pictures\Google Images\legs_2.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\legs_2.jpg</Path>
                 </Image>
               </item-44>
               <item-45>
                 <Image>
-                  <Path>D:\Pictures\Google Images\legs_3.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\legs_3.jpg</Path>
                 </Image>
               </item-45>
               <item-46>
                 <Image>
-                  <Path>D:\Pictures\Google Images\let.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\let.jpg</Path>
                 </Image>
               </item-46>
               <item-47>
                 <Image>
-                  <Path>D:\Pictures\Google Images\lies.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\lies.jpg</Path>
                 </Image>
               </item-47>
               <item-48>
                 <Image>
-                  <Path>D:\Pictures\Google Images\lies_2.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\lies_2.jpg</Path>
                 </Image>
               </item-48>
               <item-49>
                 <Image>
-                  <Path>D:\Pictures\Google Images\lies_3.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\lies_3.jpg</Path>
                 </Image>
               </item-49>
               <item-50>
                 <Image>
-                  <Path>D:\Pictures\Google Images\like.png</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\like.png</Path>
                 </Image>
               </item-50>
               <item-51>
                 <Image>
-                  <Path>D:\Pictures\Google Images\like_2.png</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\like_2.png</Path>
                 </Image>
               </item-51>
               <item-52>
                 <Image>
-                  <Path>D:\Pictures\Google Images\lonely.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\lonely.jpg</Path>
                 </Image>
               </item-52>
               <item-53>
                 <Image>
-                  <Path>D:\Pictures\Google Images\lonely_2.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\lonely_2.jpg</Path>
                 </Image>
               </item-53>
               <item-54>
                 <Image>
-                  <Path>D:\Pictures\Google Images\love.jpeg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\love.jpeg</Path>
                 </Image>
               </item-54>
               <item-55>
                 <Image>
-                  <Path>D:\Pictures\Google Images\love_2.jpeg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\love_2.jpeg</Path>
                 </Image>
               </item-55>
               <item-56>
                 <Image>
-                  <Path>D:\Pictures\Google Images\make.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\make.jpg</Path>
                 </Image>
               </item-56>
               <item-57>
                 <Image>
-                  <Path>D:\Pictures\Google Images\me.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\me.jpg</Path>
                 </Image>
               </item-57>
               <item-58>
                 <Image>
-                  <Path>D:\Pictures\Google Images\my.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\my.jpg</Path>
                 </Image>
               </item-58>
               <item-59>
                 <Image>
-                  <Path>D:\Pictures\Google Images\need.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\need.jpg</Path>
                 </Image>
               </item-59>
               <item-60>
                 <Image>
-                  <Path>D:\Pictures\Google Images\never.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\never.jpg</Path>
                 </Image>
               </item-60>
               <item-61>
                 <Image>
-                  <Path>D:\Pictures\Google Images\never_2.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\never_2.jpg</Path>
                 </Image>
               </item-61>
               <item-62>
                 <Image>
-                  <Path>D:\Pictures\Google Images\night.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\night.jpg</Path>
                 </Image>
               </item-62>
               <item-63>
                 <Image>
-                  <Path>D:\Pictures\Google Images\not.png</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\not.png</Path>
                 </Image>
               </item-63>
               <item-64>
                 <Image>
-                  <Path>D:\Pictures\Google Images\of.jpeg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\of.jpeg</Path>
                 </Image>
               </item-64>
               <item-65>
                 <Image>
-                  <Path>D:\Pictures\Google Images\off.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\off.jpg</Path>
                 </Image>
               </item-65>
               <item-66>
                 <Image>
-                  <Path>D:\Pictures\Google Images\perfect.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\perfect.jpg</Path>
                 </Image>
               </item-66>
               <item-67>
                 <Image>
-                  <Path>D:\Pictures\Google Images\perfect_2.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\perfect_2.jpg</Path>
                 </Image>
               </item-67>
               <item-68>
                 <Image>
-                  <Path>D:\Pictures\Google Images\really.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\really.jpg</Path>
                 </Image>
               </item-68>
               <item-69>
                 <Image>
-                  <Path>D:\Pictures\Google Images\really_2.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\really_2.jpg</Path>
                 </Image>
               </item-69>
               <item-70>
                 <Image>
-                  <Path>D:\Pictures\Google Images\right.png</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\right.png</Path>
                 </Image>
               </item-70>
               <item-71>
                 <Image>
-                  <Path>D:\Pictures\Google Images\right_2.png</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\right_2.png</Path>
                 </Image>
               </item-71>
               <item-72>
                 <Image>
-                  <Path>D:\Pictures\Google Images\right_3.png</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\right_3.png</Path>
                 </Image>
               </item-72>
               <item-73>
                 <Image>
-                  <Path>D:\Pictures\Google Images\run.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\run.jpg</Path>
                 </Image>
               </item-73>
               <item-74>
                 <Image>
-                  <Path>D:\Pictures\Google Images\run_2.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\run_2.jpg</Path>
                 </Image>
               </item-74>
               <item-75>
                 <Image>
-                  <Path>D:\Pictures\Google Images\rush.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\rush.jpg</Path>
                 </Image>
               </item-75>
               <item-76>
                 <Image>
-                  <Path>D:\Pictures\Google Images\rush_2.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\rush_2.jpg</Path>
                 </Image>
               </item-76>
               <item-77>
                 <Image>
-                  <Path>D:\Pictures\Google Images\scared.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\scared.jpg</Path>
                 </Image>
               </item-77>
               <item-78>
                 <Image>
-                  <Path>D:\Pictures\Google Images\see.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\see.jpg</Path>
                 </Image>
               </item-78>
               <item-79>
                 <Image>
-                  <Path>D:\Pictures\Google Images\set.png</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\set.png</Path>
                 </Image>
               </item-79>
               <item-80>
                 <Image>
-                  <Path>D:\Pictures\Google Images\shake.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\shake.jpg</Path>
                 </Image>
               </item-80>
               <item-81>
                 <Image>
-                  <Path>D:\Pictures\Google Images\simple.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\simple.jpg</Path>
                 </Image>
               </item-81>
               <item-82>
                 <Image>
-                  <Path>D:\Pictures\Google Images\simple_2.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\simple_2.jpg</Path>
                 </Image>
               </item-82>
               <item-83>
                 <Image>
-                  <Path>D:\Pictures\Google Images\single.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\single.jpg</Path>
                 </Image>
               </item-83>
               <item-84>
                 <Image>
-                  <Path>D:\Pictures\Google Images\single_2.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\single_2.jpg</Path>
                 </Image>
               </item-84>
               <item-85>
                 <Image>
-                  <Path>D:\Pictures\Google Images\stepbystep.png</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\stepbystep.png</Path>
                 </Image>
               </item-85>
               <item-86>
                 <Image>
-                  <Path>D:\Pictures\Google Images\stepbystep_2.png</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\stepbystep_2.png</Path>
                 </Image>
               </item-86>
               <item-87>
                 <Image>
-                  <Path>D:\Pictures\Google Images\stepbystep_3.png</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\stepbystep_3.png</Path>
                 </Image>
               </item-87>
               <item-88>
                 <Image>
-                  <Path>D:\Pictures\Google Images\stepbystep_4.png</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\stepbystep_4.png</Path>
                 </Image>
               </item-88>
               <item-89>
                 <Image>
-                  <Path>D:\Pictures\Google Images\stepbystep_5.png</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\stepbystep_5.png</Path>
                 </Image>
               </item-89>
               <item-90>
                 <Image>
-                  <Path>D:\Pictures\Google Images\take.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\take.jpg</Path>
                 </Image>
               </item-90>
               <item-91>
                 <Image>
-                  <Path>D:\Pictures\Google Images\tell.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\tell.jpg</Path>
                 </Image>
               </item-91>
               <item-92>
                 <Image>
-                  <Path>D:\Pictures\Google Images\that.png</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\that.png</Path>
                 </Image>
               </item-92>
               <item-93>
                 <Image>
-                  <Path>D:\Pictures\Google Images\the.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\the.jpg</Path>
                 </Image>
               </item-93>
               <item-94>
                 <Image>
-                  <Path>D:\Pictures\Google Images\they.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\they.jpg</Path>
                 </Image>
               </item-94>
               <item-95>
                 <Image>
-                  <Path>D:\Pictures\Google Images\this.png</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\this.png</Path>
                 </Image>
               </item-95>
               <item-96>
                 <Image>
-                  <Path>D:\Pictures\Google Images\through.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\through.jpg</Path>
                 </Image>
               </item-96>
               <item-97>
                 <Image>
-                  <Path>D:\Pictures\Google Images\time.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\time.jpg</Path>
                 </Image>
               </item-97>
               <item-98>
                 <Image>
-                  <Path>D:\Pictures\Google Images\to.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\to.jpg</Path>
                 </Image>
               </item-98>
               <item-99>
                 <Image>
-                  <Path>D:\Pictures\Google Images\touch.jpeg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\touch.jpeg</Path>
                 </Image>
               </item-99>
               <item-100>
                 <Image>
-                  <Path>D:\Pictures\Google Images\touch_2.jpeg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\touch_2.jpeg</Path>
                 </Image>
               </item-100>
               <item-101>
                 <Image>
-                  <Path>D:\Pictures\Google Images\touch_3.jpeg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\touch_3.jpeg</Path>
                 </Image>
               </item-101>
               <item-102>
                 <Image>
-                  <Path>D:\Pictures\Google Images\try.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\try.jpg</Path>
                 </Image>
               </item-102>
               <item-103>
                 <Image>
-                  <Path>D:\Pictures\Google Images\trying.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\trying.jpg</Path>
                 </Image>
               </item-103>
               <item-104>
                 <Image>
-                  <Path>D:\Pictures\Google Images\type.jpeg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\type.jpeg</Path>
                 </Image>
               </item-104>
               <item-105>
                 <Image>
-                  <Path>D:\Pictures\Google Images\want.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\want.jpg</Path>
                 </Image>
               </item-105>
               <item-106>
                 <Image>
-                  <Path>D:\Pictures\Google Images\want_2.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\want_2.jpg</Path>
                 </Image>
               </item-106>
               <item-107>
                 <Image>
-                  <Path>D:\Pictures\Google Images\want_3.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\want_3.jpg</Path>
                 </Image>
               </item-107>
               <item-108>
                 <Image>
-                  <Path>D:\Pictures\Google Images\we.png</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\we.png</Path>
                 </Image>
               </item-108>
               <item-109>
                 <Image>
-                  <Path>D:\Pictures\Google Images\what.png</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\what.png</Path>
                 </Image>
               </item-109>
               <item-110>
                 <Image>
-                  <Path>D:\Pictures\Google Images\when.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\when.jpg</Path>
                 </Image>
               </item-110>
               <item-111>
                 <Image>
-                  <Path>D:\Pictures\Google Images\with.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\with.jpg</Path>
                 </Image>
               </item-111>
               <item-112>
                 <Image>
-                  <Path>D:\Pictures\Google Images\you.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\you.jpg</Path>
                 </Image>
               </item-112>
               <item-113>
                 <Image>
-                  <Path>D:\Pictures\Google Images\your.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\your.jpg</Path>
                 </Image>
               </item-113>
               <item-114>
                 <Image>
-                  <Path>D:\Pictures\Google Images\you're.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\you're.jpg</Path>
                 </Image>
               </item-114>
               <item-115>
                 <Image>
-                  <Path>D:\Pictures\Google Images\you've.jpg</Path>
+                  <Path>G:\Other computers\Ноутбук\Google Images\you've.jpg</Path>
                 </Image>
               </item-115>
             </list>
@@ -2527,12 +2485,12 @@
               </item-438>
             </list>
           </NumberDictionaryXml>
-          <Duration>247.74182400000004</Duration>
+          <Duration>245.16118000000003</Duration>
           <Effects>
             <list count="0" />
           </Effects>
         </AutoSequencerClip>
-      </item-3>
+      </item-1>
     </list>
   </Clips>
 </VidU>
