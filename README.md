@@ -6,7 +6,3 @@ Yeah, Initially, I was motivated to achieve my goals, but lately, I've found mys
 ## About MuzUStandard
 MuzUStandard is a powerful library designed for reading MuzU files. A MuzU file is a JSON-based format used to convey musical information to a computer. It serves as a foundation for synchronizing visuals with music, allowing me to dive into the realm of audiovisual creativity.
 
-## Challenge Details
-- Day 1 - Preparing MuzUStandard library and MuzU files
-- Day 2 - Learning Prism: Simple Prism Application 
-- Day 3 - Learning Prism: Modulization with Prism
