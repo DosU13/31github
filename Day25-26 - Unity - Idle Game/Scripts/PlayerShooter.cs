@@ -1,12 +1,13 @@
+using System;
 using System.Collections;
 using UnityEngine;
 
 public class PlayerShooter : MonoBehaviour
 {
-    public float shootingRange = 10f; // Range within which the player can shoot
+    [NonSerialized] public float shootingRange = 10f; // Range within which the player can shoot
     public float lineDuration = 0.1f; // Duration of the shot line
-    public float interval = 0.5f;
-    public LayerMask enemyLayer; // LayerMask for enemies
+    [NonSerialized] public float interval = 1f;
+    [NonSerialized] public float DamageAmount = 10f;
 
     private LineRenderer shotLine; // Reference to the LineRenderer
     private void Start()
@@ -47,7 +48,7 @@ public class PlayerShooter : MonoBehaviour
             Vector3 endPos = nearestEnemy.transform.position;
             StartCoroutine(ShowShotLine(transform.position, endPos, lineDuration));
 
-            Destroy(nearestEnemy); // Destroy the nearest enemy
+            nearestEnemy.GetComponent<EnemyBehaviour>().ApplyDamage(DamageAmount);
         }
     }
 

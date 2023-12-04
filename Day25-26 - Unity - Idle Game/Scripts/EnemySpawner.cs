@@ -5,8 +5,10 @@ public class EnemySpawner : MonoBehaviour
 {
     public GameObject enemyPrefab; // Reference to your enemy prefab
     public float circleRadius = 5f; // Radius of the circle
-    public float minInterval = 0.1f; // Minimum interval between enemy spawns
-    public float maxInterval = 0.3f; // Maximum interval between enemy spawns
+    public float interval = 0.2f; // interval between enemy spawns
+    public float enemyHealth = 10f;
+    public float damageAmount = 1f;
+    public float priceAmount = 1f;
 
     private float timer = 0f;
     private float spawnInterval = 1f; // Initial spawn interval
@@ -22,7 +24,7 @@ public class EnemySpawner : MonoBehaviour
             timer = 0f;
 
             // Set a new random spawn interval between the defined range
-            spawnInterval = Random.Range(minInterval, maxInterval);
+            spawnInterval = Random.Range(interval*0.7f, interval*1.3f);
         }
     }
 
@@ -30,7 +32,11 @@ public class EnemySpawner : MonoBehaviour
     void SpawnEnemy()
     {
         Vector3 spawnPosition = CalculateSpawnPosition();
-        Instantiate(enemyPrefab, spawnPosition, Quaternion.identity, transform);
+        var enemy = Instantiate(enemyPrefab, spawnPosition, Quaternion.identity, transform);
+        var enemyBehaviour = enemy.GetComponent<EnemyBehaviour>();
+        enemyBehaviour.Health = enemyHealth;
+        enemyBehaviour.DamageAmount = damageAmount;
+        enemyBehaviour.PriceAmount = priceAmount;
     }
 
     // Calculate the spawn position around the circle
