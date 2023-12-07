@@ -1,0 +1,2 @@
+C:\Users\DosU\source\repos\VideoSpeedChanger\VideoEffects\VideoEffects.csproj;x86
+C:\Users\DosU\source\repos\VideoSpeedChanger\VideoSpeedChanger\VideoSpeedChanger.csproj;x86
